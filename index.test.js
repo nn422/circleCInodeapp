@@ -17,3 +17,8 @@ it('adds 6/3 = 2', ()=>{
 it('adds 100-95 = 5', ()=>{
     expect(100-95).toEqual(5)
 })
+
+// test for simple math 5
+it('adds 100-95 = 5', ()=>{
+    expect(100-95).toEqual(9)
+})
